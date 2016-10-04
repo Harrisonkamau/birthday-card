@@ -1,6 +1,7 @@
 <resources>
-    <string name="app_name">Material Login Example</string>
+    <string name="app_name">Birthday Card</string>
 
     <string name="hello_world">Hello world!</string>
+    <string name="save_date">Calendar</string>
     <string name="action_settings">Settings</string>
 </resources>
